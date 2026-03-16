@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "BdyusEGLKuc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Benjamin\\source\\repos\\WpfAppGuessSong\\WpfAppGuessSong\\WpfAppGuessSong.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Benjamin\\.nuget\\packages\\naudio\\2.3.0\\naudio.2.3.0.nupkg.sha512",
+    "C:\\Users\\Benjamin\\.nuget\\packages\\naudio.asio\\2.3.0\\naudio.asio.2.3.0.nupkg.sha512",
+    "C:\\Users\\Benjamin\\.nuget\\packages\\naudio.core\\2.3.0\\naudio.core.2.3.0.nupkg.sha512",
+    "C:\\Users\\Benjamin\\.nuget\\packages\\naudio.midi\\2.3.0\\naudio.midi.2.3.0.nupkg.sha512",
+    "C:\\Users\\Benjamin\\.nuget\\packages\\naudio.wasapi\\2.3.0\\naudio.wasapi.2.3.0.nupkg.sha512",
+    "C:\\Users\\Benjamin\\.nuget\\packages\\naudio.winforms\\2.3.0\\naudio.winforms.2.3.0.nupkg.sha512",
+    "C:\\Users\\Benjamin\\.nuget\\packages\\naudio.winmm\\2.3.0\\naudio.winmm.2.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

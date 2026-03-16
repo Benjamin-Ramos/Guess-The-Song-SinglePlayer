@@ -1,0 +1,12 @@
+C:\Users\Benjamin\source\repos\WpfAppGuessSong\WpfAppGuessSong\bin\Release\net8.0-windows\publish\WpfAppGuessSong.exe
+C:\Users\Benjamin\source\repos\WpfAppGuessSong\WpfAppGuessSong\bin\Release\net8.0-windows\publish\WpfAppGuessSong.dll
+C:\Users\Benjamin\source\repos\WpfAppGuessSong\WpfAppGuessSong\bin\Release\net8.0-windows\publish\WpfAppGuessSong.deps.json
+C:\Users\Benjamin\source\repos\WpfAppGuessSong\WpfAppGuessSong\bin\Release\net8.0-windows\publish\WpfAppGuessSong.runtimeconfig.json
+C:\Users\Benjamin\source\repos\WpfAppGuessSong\WpfAppGuessSong\bin\Release\net8.0-windows\publish\WpfAppGuessSong.pdb
+C:\Users\Benjamin\source\repos\WpfAppGuessSong\WpfAppGuessSong\bin\Release\net8.0-windows\publish\NAudio.dll
+C:\Users\Benjamin\source\repos\WpfAppGuessSong\WpfAppGuessSong\bin\Release\net8.0-windows\publish\NAudio.Asio.dll
+C:\Users\Benjamin\source\repos\WpfAppGuessSong\WpfAppGuessSong\bin\Release\net8.0-windows\publish\NAudio.Core.dll
+C:\Users\Benjamin\source\repos\WpfAppGuessSong\WpfAppGuessSong\bin\Release\net8.0-windows\publish\NAudio.Midi.dll
+C:\Users\Benjamin\source\repos\WpfAppGuessSong\WpfAppGuessSong\bin\Release\net8.0-windows\publish\NAudio.Wasapi.dll
+C:\Users\Benjamin\source\repos\WpfAppGuessSong\WpfAppGuessSong\bin\Release\net8.0-windows\publish\NAudio.WinForms.dll
+C:\Users\Benjamin\source\repos\WpfAppGuessSong\WpfAppGuessSong\bin\Release\net8.0-windows\publish\NAudio.WinMM.dll
