@@ -1,4 +1,4 @@
-# 🎵 Guess The Song - SinglePlayer
+# Guess The Song - SinglePlayer
 
 **Guess The Song** es una aplicación de escritorio interactiva desarrollada en **C# con WPF**. El objetivo es poner a prueba tus conocimientos musicales permitiéndote buscar cualquier artista y adivinar sus canciones más populares escuchando una pequeña previa de audio.
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Características Principal
+## Características Principal
 
 * **Búsqueda en Tiempo Real:** Utiliza la API de iTunes para obtener los temas más relevantes de cualquier artista que ingreses.
 * **Audio Streaming:** Reproducción de fragmentos de canciones mediante la librería **NAudio**.
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 * **Lenguaje:** C# (.NET)
 * **Interfaz:** WPF (Windows Presentation Foundation)
@@ -28,7 +28,7 @@
 
 ---
 
-## 🎮 Cómo Jugar
+## Cómo Jugar
 
 1.  **Ingresa un Artista:** Escribe el nombre del artista en el cuadro de búsqueda y haz clic en **BUSCAR**.
 2.  **Escucha:** Presiona **▶ ESCUCHAR** para reproducir la previa de la canción actual.
@@ -38,7 +38,7 @@
 
 ---
 
-## 📁 Estructura del Código
+## Estructura del Código
 
 El proyecto sigue una estructura organizada para mantener la separación de responsabilidades:
 
@@ -51,7 +51,7 @@ El proyecto sigue una estructura organizada para mantener la separación de resp
 
 ---
 
-## 🔧 Instalación y Configuración
+## Instalación y Configuración
 
 1.  **Clonar el repositorio:**
     ```bash
@@ -63,14 +63,14 @@ El proyecto sigue una estructura organizada para mantener la separación de resp
 
 ---
 
-## 📝 Notas de Desarrollo
+## Notas de Desarrollo
 
 * **Normalización:** Se implementó un método de normalización `FormD` para que caracteres como `á` sean tratados como `a`, mejorando la precisión de la búsqueda manual en el juego.
 * **Limpieza de Títulos:** El servicio de música utiliza expresiones regulares (Regex) para limpiar los títulos de las canciones que vienen de iTunes, eliminando etiquetas como `(feat. ...)` para que el usuario no tenga que escribir nombres excesivamente largos.
 
 ---
 
-## 📄 Licencia
+## Licencia
 Este proyecto es de código abierto bajo la licencia [MIT](LICENSE).
 
 ---
